@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\12.1\modelsim_ase
+Ebcd_7sdd
+Z0 w1557166656
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\hp\Desktop\VHDL Project\BCD to 7 Segment Display Decoder
+Z4 8C:\Users\hp\Desktop\VHDL Project\BCD to 7 Segment Display Decoder\BCD_7SDD.vhd
+Z5 FC:\Users\hp\Desktop\VHDL Project\BCD to 7 Segment Display Decoder\BCD_7SDD.vhd
+l0
+L4
+VezlC:acWUDjVQREzfA3d50
+!s100 0gzcRke_kXOoCT_m2jL<j0
+Z6 OV;C;10.1b;51
+32
+!i10b 1
+Z7 !s108 1557166659.667000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\hp\Desktop\VHDL Project\BCD to 7 Segment Display Decoder\BCD_7SDD.vhd|
+Z9 !s107 C:\Users\hp\Desktop\VHDL Project\BCD to 7 Segment Display Decoder\BCD_7SDD.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Abehv
+R1
+R2
+Z12 DEx4 work 8 bcd_7sdd 0 22 ezlC:acWUDjVQREzfA3d50
+l14
+L13
+VdYcS5[m=FDdHJT95T5S0^1
+!s100 AP[2YfbEU=>Ez1@iGlIWa1
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11

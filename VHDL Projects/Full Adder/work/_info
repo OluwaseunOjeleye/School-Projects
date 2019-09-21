@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\12.1\modelsim_ase
+Efull_adder
+Z0 w1557009494
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\hp\Desktop\Full Adder
+Z4 8C:/Users/hp/Desktop/Full Adder/Full_adder.vhd
+Z5 FC:/Users/hp/Desktop/Full Adder/Full_adder.vhd
+l0
+L4
+VnR?K[8HPneCW^7=?A9zWU3
+!s100 bGOST:jm`A6S8R;AGSgNb2
+Z6 OV;C;10.1b;51
+32
+!i10b 1
+Z7 !s108 1557012788.863000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/hp/Desktop/Full Adder/Full_adder.vhd|
+Z9 !s107 C:/Users/hp/Desktop/Full Adder/Full_adder.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Atest
+R1
+R2
+Z12 DEx4 work 10 full_adder 0 22 nR?K[8HPneCW^7=?A9zWU3
+l14
+L13
+Z13 Vdefb5jd0OmT[6O5j;bO931
+Z14 !s100 IgmCO3a]JNO^`CAVj3;DN0
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11

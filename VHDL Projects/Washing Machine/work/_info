@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\hp\Desktop\Full Adder
+Efsm
+Z0 w1557076571
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\hp\Desktop\Washing Machine
+Z4 8C:/Users/hp/Desktop/Washing Machine/Washing_Machine.vhd
+Z5 FC:/Users/hp/Desktop/Washing Machine/Washing_Machine.vhd
+l0
+L4
+V@D_k@ML?<?>Z=<KbH3z@A0
+!s100 ZMoB`9^>YZGm;0@`9W5d30
+Z6 OV;C;10.1b;51
+32
+!i10b 1
+Z7 !s108 1557085978.992000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/hp/Desktop/Washing Machine/Washing_Machine.vhd|
+Z9 !s107 C:/Users/hp/Desktop/Washing Machine/Washing_Machine.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Abehv
+R1
+R2
+Z12 DEx4 work 3 fsm 0 22 @D_k@ML?<?>Z=<KbH3z@A0
+l15
+L12
+Z13 VWm4QMzlQU?Kjd6[Q9M7hE0
+Z14 !s100 nP]Q5Mce[m]8U:d1R4I7[2
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
