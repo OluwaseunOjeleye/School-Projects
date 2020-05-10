@@ -2,7 +2,7 @@
 
 This repository contains my solutions to some of the assignments of the courses I took during my undergraduate first and second year. These courses include Introduction to programming, OOP, Discrete Mathematics, Algorithm, Microprocessor and VHDL.
 
-Algorithms implemented from scratch till date:
+Projects:
 
 1. **[Students-Teachers Appointment System Class](https://github.com/OluwaseunOjeleye/School-Projects/tree/master/Appointment%20System)**: implemented with C++ (OOP Assignment).
 
